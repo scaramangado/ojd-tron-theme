@@ -1,0 +1,14 @@
+{
+    "id": "ojd-tron-theme",
+    "name": "Nintendo Gamecube (Tron)",
+    "author": "Aliens (original), scaramanga (OJD Port)",
+    "version": "1.0",
+    "website": "https://github.com/scaramangado/ojd-tron-theme",
+    "email": "scaramangado@gmail.com",
+    "styles": [
+        {
+            "id": "tron",
+            "name": "Gamecube (Tron)"
+        }
+    ]
+}
